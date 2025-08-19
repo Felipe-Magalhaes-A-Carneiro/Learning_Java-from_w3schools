@@ -1,18 +1,35 @@
-## Getting Started
+# Java Studies ☕️
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains my initial Java studies, focusing on understanding the fundamentals of the language. My goal is to become a Java expert, applying the concepts I learned to practical projects and professional solutions.
 
-## Folder Structure
+## 👨‍💻 Topics covered in this step:
 
-The workspace contains two folders by default, where:
+- Basic structure of a Java program
+- Data types and variables
+- Data input and output
+- Conditional structures (`if`, `else`)
+- Repetition loops (`for`, `while`)
+- Operators and expressions
+- Practical exercises
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📁 Directory structure
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+java-estudos/
+└── src/
+├── Main.java
+├── VariablesAndTypes.java
+├── Condition.java
+└── RepeatingLoops.java
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+## 🧠 Author
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Felipe Magalhães de Araujo Carneiro**
+📍 São Paulo - Brazil
+🎓 Bachelor's Degree in Systems Analysis and Development
+🔗 [LinkedIn](https://www.linkedin.com/in/your-user)
+🔗 [GitHub Portfolio](https://github.com/your-user)
+
+---
+
+> This repository will be constantly updated with new Java learnings and practices.
